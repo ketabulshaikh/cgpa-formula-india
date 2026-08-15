@@ -1,0 +1,47 @@
+{
+  "last_updated": "2026-08",
+  "total_universities": 60,
+  "source": "https://mycgpatopercentage.in",
+  "universities": [
+    {
+      "name": "MAKAUT",
+      "full_name": "Maulana Abul Kalam Azad University of Technology",
+      "state": "West Bengal",
+      "formula": "(CGPA - 0.75) × 10",
+      "example": "8.0 CGPA = 72.5%",
+      "calculator": "https://mycgpatopercentage.in/makaut-cgpa-to-percentage/"
+    },
+    {
+      "name": "VTU",
+      "full_name": "Visvesvaraya Technological University",
+      "state": "Karnataka",
+      "formula": "(CGPA - 0.75) × 10",
+      "example": "8.0 CGPA = 72.5%",
+      "calculator": "https://mycgpatopercentage.in/vtu-cgpa-to-percentage/"
+    },
+    {
+      "name": "Anna University",
+      "full_name": "Anna University",
+      "state": "Tamil Nadu",
+      "formula": "CGPA × 10",
+      "example": "8.0 CGPA = 80%",
+      "calculator": "https://mycgpatopercentage.in/anna-university-cgpa-to-percentage/"
+    },
+    {
+      "name": "Mumbai University",
+      "full_name": "University of Mumbai",
+      "state": "Maharashtra",
+      "formula": "CGPA × 7.1 + 11",
+      "example": "8.0 CGPA = 67.8%",
+      "calculator": "https://mycgpatopercentage.in/mumbai-university-cgpa-to-percentage/"
+    },
+    {
+      "name": "Delhi University",
+      "full_name": "University of Delhi",
+      "state": "Delhi",
+      "formula": "CGPA × 9.5",
+      "example": "8.0 CGPA = 76%",
+      "calculator": "https://mycgpatopercentage.in/delhi-university-cgpa-to-percentage/"
+    }
+  ]
+}
